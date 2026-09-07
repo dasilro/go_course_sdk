@@ -1,0 +1,12 @@
+github.com/dasilro/gocourse_domain v0.0.1 h1:OFdRobkug0S5NhGllq3ol2nc6QnGJHvSLho6xMv9tl8=
+github.com/dasilro/gocourse_domain v0.0.1/go.mod h1:hTm2d+8DiFNi01XjpNYZH0pRcs85lw9kHxkwWrzr1fI=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
+github.com/jinzhu/inflection v1.0.0/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
+github.com/jinzhu/now v1.1.4 h1:tHnRBy1i5F2Dh8BAFxqFzxKqqvezXrL2OW1TnX+Mlas=
+github.com/jinzhu/now v1.1.4/go.mod h1:d3SSVoowX0Lcu0IBviAWJpolVfI5UJVZZ7cO71lE/z8=
+github.com/ncostamagna/go_http_client v0.0.3 h1:pqdtjdb8/AtcePU2zJ6EKaqIH70lMgJC8bYLwtQ42D8=
+github.com/ncostamagna/go_http_client v0.0.3/go.mod h1:KFcAC5BfXWTBx6vtYo2tZCELCntGNkx8XFMLE0K4Frw=
+gorm.io/gorm v1.23.9 h1:NSHG021i+MCznokeXR3udGaNyFyBQJW8MbjrJMVCfGw=
+gorm.io/gorm v1.23.9/go.mod h1:DVrVomtaYTbqs7gB/x2uVvqnXzv0nqjB396B8cG4dBA=
